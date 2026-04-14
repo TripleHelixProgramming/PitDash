@@ -6,7 +6,7 @@ Pit Dash is an app that shows your team's match countdown, alliance info, queuin
 
 **Android:** Android installation instructions are below.
 
-If you encounter any issues or have suggestions for improvement, please create a new [Issue](../../Issues).
+If you encounter any issues or have suggestions for improvement, please create a new [Issue](../../issues).
 
 ## Installing
 
