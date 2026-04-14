@@ -1,6 +1,12 @@
-# Pit Dash — Android Beta
+# Pit Dash
 
-This is a beta version of Pit Dash, an app that shows your team's match countdown, alliance info, queuing status, and rankings on a phone or tablet at the pit. The iPhone version is well tested and it runs fine in the Android simulator, so I don't expect major issues — but I'd like to get it onto some real Android hardware before investing in Play Store publishing. Any feedback is appreciated — crashes, layout issues, timing that doesn't match the field, anything that looks off. A screenshot and a sentence or two is plenty.
+Pit Dash is an app that shows your team's match countdown, alliance info, queuing status, and rankings on a phone or tablet at the pit.
+
+**iPhone:** The iOS version is available via Apple TestFlight at [testflight.apple.com/join/gFvpXsbM](https://testflight.apple.com/join/gFvpXsbM).
+
+**Android:** Android installation instructions are below.
+
+If you encounter any issues or have suggestions for improvement, please create a new [Issue](../../Issues).
 
 ## Installing
 
