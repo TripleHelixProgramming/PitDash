@@ -1,4 +1,10 @@
-# Pit Dash
+<table>
+<tr>
+<td width="180" valign="top" align="center">
+  <img src="assets/icon.png" alt="Pit Dash icon" width="140"><br>
+  <h1>Pit Dash</h1>
+</td>
+<td valign="top">
 
 Pit Dash is an app that shows your team's match countdown, alliance info, queuing status, and rankings on a phone or tablet at the pit.
 
@@ -7,6 +13,28 @@ Pit Dash is an app that shows your team's match countdown, alliance info, queuin
 **Android:** Android installation instructions are below.
 
 If you encounter any issues or have suggestions for improvement, please create a new [Issue](../../issues).
+
+</td>
+</tr>
+</table>
+
+## Screenshots
+
+<p align="center">
+  <a href="docs/screenshots/pit.md"><img src="assets/screenshots/pit.jpg" alt="Pit view" width="200"></a>
+  &nbsp;
+  <a href="docs/screenshots/teams.md"><img src="assets/screenshots/teams.jpg" alt="Teams and rankings" width="200"></a>
+  &nbsp;
+  <a href="docs/screenshots/schedule.md"><img src="assets/screenshots/schedule.jpg" alt="Schedule" width="200"></a>
+  &nbsp;
+  <a href="docs/screenshots/teamdetail.md"><img src="assets/screenshots/teamdetail.jpg" alt="Team detail" width="200"></a>
+  &nbsp;
+  <a href="docs/screenshots/robot.md"><img src="assets/screenshots/robot.jpg" alt="Robot" width="200"></a>
+  &nbsp;
+  <a href="docs/screenshots/pitmap.md"><img src="assets/screenshots/pitmap.jpg" alt="Pit map" width="200"></a>
+</p>
+
+<p align="center"><sub>Tap any screenshot for a description and full-resolution view.</sub></p>
 
 ## Installing
 
