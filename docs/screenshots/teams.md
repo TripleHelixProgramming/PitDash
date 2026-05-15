@@ -13,4 +13,4 @@ Live event rankings with the stats that actually matter for scouting and allianc
 - **Statbotics EPA breakdown** on the right — overall EPA plus Auto / Teleop / Endgame components.
 - Tap any row to drill into that team's detail page (awards, event history, match-by-match performance).
 
-![Teams and rankings](../../assets/screenshots/teams.jpg)
+<p align="center"><img src="../../assets/screenshots/teams.png" alt="Teams and rankings" width="320"></p>

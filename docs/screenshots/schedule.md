@@ -15,4 +15,4 @@ The event schedule. By default it shows **upcoming matches involving your team**
 - Overnight gaps and lunch breaks are called out so it's obvious when the field goes cold.
 - Tap any match to see alliance details and predictions.
 
-![Schedule](../../assets/screenshots/schedule.jpg)
+<p align="center"><img src="../../assets/screenshots/schedule.png" alt="Schedule" width="320"></p>

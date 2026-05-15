@@ -14,4 +14,4 @@ A quick reference for finding any team at the event. Pit locations come from Nex
 - Your team's pit is highlighted, and the **alliance partners and opponents for your upcoming match are highlighted too**, so you can find everyone you need to talk to before queuing.
 - Tap a team cell to jump to their details.
 
-![Pit map](../../assets/screenshots/pitmap.jpg)
+<p align="center"><img src="../../assets/screenshots/pitmap.png" alt="Pit map" width="320"></p>

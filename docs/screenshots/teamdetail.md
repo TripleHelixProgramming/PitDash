@@ -13,4 +13,4 @@ Everything you'd want to know about a single team — reached by tapping any tea
 - Color-coded `W` / `L` makes performance trends easy to scan at a glance.
 - **Tap any match row** to open the full breakdown or results for that match, along with a link to the match video on YouTube when one is available.
 
-![Team detail](../../assets/screenshots/teamdetail.jpg)
+<p align="center"><img src="../../assets/screenshots/teamdetail.png" alt="Team detail" width="320"></p>

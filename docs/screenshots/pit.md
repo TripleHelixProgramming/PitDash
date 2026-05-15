@@ -14,4 +14,4 @@ The home screen. Everything a driver or coach wants at a glance.
 - **Win-probability bar** and score prediction (Statbotics) comparing the two alliances.
 - **Alliance cards** — both alliances for your upcoming match with team avatar, record, current ranking (e.g. `R18`), pit location (e.g. `C10`), and per-team EPA / Auto / Teleop / Endgame breakdown. **Tap any card to open that team's full details** (match history, awards, event performance, etc.).
 
-![Pit view](../../assets/screenshots/pit.jpg)
+<p align="center"><img src="../../assets/screenshots/pit.png" alt="Pit view" width="320"></p>
