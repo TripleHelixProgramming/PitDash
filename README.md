@@ -8,7 +8,7 @@
 
 Pit Dash is a match-day companion for FRC teams. It shows your next-match countdown, alliance partners and opponents, live queuing status, win probabilities, event rankings, the pit map, and the rest of the schedule — on a phone or a tablet, with multi-pane layouts when you have the screen for it.
 
-**iPhone / iPad:** The iOS version is available via Apple TestFlight at [testflight.apple.com/join/gFvpXsbM](https://testflight.apple.com/join/gFvpXsbM).
+**iPhone / iPad:** The iOS version is available via Apple [App Store](https://apps.apple.com/us/app/pit-dash/id6761343496).
 
 **Android:** Android installation instructions are below.
 
