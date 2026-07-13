@@ -89,4 +89,4 @@ project:
 <https://github.com/TripleHelixProgramming/PitDash/issues>
 
 You may also reach Triple Helix through the team's public contact
-channels at <https://triplehelix.org>.
+channels at <https://team2363.org>.
