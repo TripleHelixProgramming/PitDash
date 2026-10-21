@@ -98,6 +98,8 @@ A cross-section of how information is presented on phone and tablet.
 
 Android requires this "unknown sources" step for any app that didn't come from the Play Store. You can turn the setting back off after installing.
 
+**Updating:** download the new `.apk` and open it the same way. It installs over the old version and keeps your settings.
+
 If your device blocks the install entirely, go to **Settings → Apps → Special access → Install unknown apps** and enable it for Chrome or whichever app you're opening the file from.
 
 ## Setup
@@ -112,5 +114,5 @@ The app auto-detects your event based on the date. The More menu (bottom right) 
 
 ## Limitations
 
-- **No auto-update on Android.** Check the [Releases](../../releases) page for new builds. You'll need to download and reinstall manually.
+- **No auto-update on Android.** Check the [Releases](../../releases) page for new builds and install the new `.apk` over the old one.
 - **Android polish is in progress.** Some rough edges are expected.
