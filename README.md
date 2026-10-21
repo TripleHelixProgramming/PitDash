@@ -12,7 +12,7 @@ Pit Dash is a match-day companion for FRC teams. It shows your next-match countd
 <img src="https://toolbox.marketingtools.apple.com/api/v2/badges/download-on-the-app-store/black/en-us?releaseDate=1779062400" alt="Download on the App Store" style="width: 245px; height: 82px; vertical-align: middle; object-fit: contain;" />
 </a>
 
-**Android:** Android installation instructions are below.
+**Android:** [Installation instructions](#installing) are below.
 
 If you encounter any issues or have suggestions for improvement, please create a new [Issue](../../issues).
 
