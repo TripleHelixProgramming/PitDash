@@ -100,6 +100,8 @@ Android requires this "unknown sources" step for any app that didn't come from t
 
 **Updating:** download the new `.apk` and open it the same way. It installs over the old version and keeps your settings.
 
+**Two Pit Dash apps after updating?** Copies installed before May 2, 2026 (version 1.0.0, build 23 or earlier) are a different app to Android, so a new version installs beside the old one and starts with fresh settings. Set up the new one again, then remove the old one: in **Settings → Apps**, open each Pit Dash and uninstall the one with the lower version number.
+
 If your device blocks the install entirely, go to **Settings → Apps → Special access → Install unknown apps** and enable it for Chrome or whichever app you're opening the file from.
 
 ## Setup
